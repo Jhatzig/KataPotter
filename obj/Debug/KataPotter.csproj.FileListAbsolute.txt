@@ -1,0 +1,5 @@
+c:\users\julien\documents\visual studio 2013\Projects\KataPotter\KataPotter\bin\Debug\KataPotter.dll
+c:\users\julien\documents\visual studio 2013\Projects\KataPotter\KataPotter\bin\Debug\KataPotter.pdb
+c:\users\julien\documents\visual studio 2013\Projects\KataPotter\KataPotter\obj\Debug\KataPotter.csprojResolveAssemblyReference.cache
+c:\users\julien\documents\visual studio 2013\Projects\KataPotter\KataPotter\obj\Debug\KataPotter.dll
+c:\users\julien\documents\visual studio 2013\Projects\KataPotter\KataPotter\obj\Debug\KataPotter.pdb
